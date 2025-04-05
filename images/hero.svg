@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0f7ff"/>
+  <rect x="100" y="100" width="600" height="400" rx="20" fill="#e0efff" stroke="#0066cc" stroke-width="4"/>
+  <rect x="200" y="150" width="400" height="250" rx="10" fill="#ffffff" stroke="#0066cc" stroke-width="2"/>
+  <path d="M250 200 L550 200 L550 350 L250 350 Z" fill="none" stroke="#0066cc" stroke-width="4" stroke-dasharray="5,5"/>
+  <circle cx="400" cy="275" r="50" fill="#0066cc" opacity="0.3"/>
+  <path d="M350 350 L450 250 L500 300 L550 200" fill="none" stroke="#0066cc" stroke-width="4" stroke-linecap="round"/>
+  <rect x="300" y="400" width="200" height="50" rx="5" fill="#0066cc"/>
+  <text x="400" y="430" font-family="Arial" font-size="20" fill="white" text-anchor="middle">Redes de Proteção</text>
+  <circle cx="250" cy="250" r="20" fill="#ff6b6b"/>
+  <circle cx="550" cy="250" r="20" fill="#ff6b6b"/>
+</svg> 
